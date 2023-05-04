@@ -49,7 +49,7 @@ namespace ProgrammingAssignment2
 				}
 
 				// calculate mean and print results
-				float mea1 n = 0;
+				float mean = 0;
 				if (count > 0)
 				{
 					mean = (float)sum / count;
